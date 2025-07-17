@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Ma3rfAshnosmiytni
-- 🌱 I’m a student in bachelor's degree in energetic mecanic and numeric simulation (it's the last year)
-- 💞️ All types of projects interrest me, but I prefer some aroud energetic problems.  
-- 📫 You can reach me at my mail remi.angoin.Comptepro@outlook.fr
+- 👋 Hi, I’m Rémi
+- I’m currently in the final year of a Master’s degree in Energy Engineering and Numerical Simulation  
+- I’m interested in all kinds of engineering projects, with a strong preference for those related to energy systems — especially nuclear 
+- You can reach me at my mail remi.angoin@hotmail.com
 
